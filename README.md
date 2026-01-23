@@ -7,10 +7,7 @@
 
 ## 🔹 About Me
 
-Motivated **Entry-level Data Analyst** and **Computer Engineering graduate** with hands-on experience in data cleaning, analysis, and visualization.  
-Skilled in transforming raw data into actionable insights using **Python, SQL, Power BI, and Excel**.  
-Passionate about working with real-world datasets and building dashboards that support data-driven decision-making.
-
+Entry-level Data Analyst skilled in Python, SQL, Power BI, and Excel. Experienced in data cleaning, EDA, dashboard development, and KPI reporting using real-world datasets. Strong analytical mindset with hands-on project and internship experience.
 ---
 
 ## 💼 Internship
